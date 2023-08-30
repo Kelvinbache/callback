@@ -30,3 +30,7 @@ function baseaData(callback) {
 baseaData((user) => {
   console.log(user);
 });
+
+/*Los callback podemos entender como una funcion, que tiene en sus algumentos otra funcion, podemos poner tiempo de ejecucion a la repuesta que queremos, que retorne  
+
+*/
